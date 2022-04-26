@@ -9,5 +9,4 @@ import com.example.calculator.model.History
 abstract class Appdatabase : RoomDatabase() {
     abstract fun historydao(): HistoryDao
 
-
 }
