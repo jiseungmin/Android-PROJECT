@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         initdata()
     }
 
-    private fun initview(){ // 화면으로 넘길때 여운을 주는 함
+    private fun initview(){ // 화면으로 넘길때 여운을 주는 함수
         viewpager.setPageTransformer { page, position ->
             when{
                 position.absoluteValue >= 1F -> {

@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
     private val adressbar: EditText by lazy {
         findViewById(R.id.addressBar)
     }
-    private val homebutton: ImageButton by lazy {
+    private val homebutton: ImageButton by lazy { 
         findViewById(R.id.homeButton)
     }
     private val gobutton: ImageButton by lazy {

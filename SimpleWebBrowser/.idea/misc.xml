@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_forward.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.18" />
         <entry key="app/src/main/res/drawable/shape_addressbar.xml" value="0.1795" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2947916666666667" />
       </map>
